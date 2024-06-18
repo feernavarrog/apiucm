@@ -58,7 +58,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 ROOT_URLCONF = 'apiucm.urls'
 
 CORS_ALLOWED_ORIGINS = [
-    '*',
+    '*'
 ]
 
 CORS_ALLOW_METHODS = [
